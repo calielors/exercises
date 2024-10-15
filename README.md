@@ -1,1 +1,1 @@
-# my first repo
+# my first repo aimed at organizing the practices taught in class and learning how to use github.
