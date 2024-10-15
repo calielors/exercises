@@ -1,4 +1,4 @@
-package practice1;
+package Practice1;
 import java.util.Scanner;
 public class question2 {
     public static void main(String[] args){
