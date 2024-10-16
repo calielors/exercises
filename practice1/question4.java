@@ -9,5 +9,6 @@ public class question4 {
         num2 = scanner.nextInt();
         System.out.println("soma = " + (num1 + num2));
         System.out.println("subtracao = " + (num1 - num2));
+        scanner.close();
     }
 }

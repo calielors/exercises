@@ -7,5 +7,6 @@ public class question4{
             for (int i = 1; i <= n; i++) {
                 System.out.printf("%d ", i);
             }
+        scanner.close();
     }
 }

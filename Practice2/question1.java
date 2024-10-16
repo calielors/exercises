@@ -8,5 +8,6 @@ public class question1 {
             double num3 = scan.nextFloat();
             double num4 = scan.nextFloat();
         System.out.println((num1 + num2 + num3 + num4)/4);
+        scan.close();
     }
 }

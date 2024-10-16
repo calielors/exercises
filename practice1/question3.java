@@ -7,5 +7,6 @@ public class question3 {
         x = scanner.nextInt();
         x = x*x;
     System.out.println(x);
+    scanner.close();
     }
 }

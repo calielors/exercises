@@ -5,7 +5,8 @@ public class question5 {
         Scanner scanner = new Scanner(System.in);
             int n = scanner.nextInt();
                 for (int i = 1; i <= n;) {
-                    System.out.printf("%d ", n); n--;
+                    System.out.printf("%d ", n); n--;                  
         }
+        scanner.close();
     }
 }

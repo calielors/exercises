@@ -6,5 +6,6 @@ public class question5 {
         String pNome = scanner.next();
         String sNome = scanner.next();
         System.out.printf("%s %s", pNome, sNome);
+        scanner.close();
     }  
 }
