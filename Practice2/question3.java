@@ -17,5 +17,6 @@ public class question3 {
             }
         }
         System.out.println(maior);
+        scanner.close();
     }
 }
