@@ -16,17 +16,11 @@ public class question4 {
         }
         input.close();
         double media = 0;
-        media = (soma / N);
-         System.out.printf("%.2f\n", media);
-         int mMedia[] = new int[N];
-         int i;
-         int j = 0;
-        for(i = 0; i < vetor.length; i++){
-            if (vetor[i] > media){
-                mMedia[j] = vetor[i];
-                System.out.println(mMedia[j]);
-                j++;
-            }
-        }
+        System.out.printf("%.2f\n", media = (soma / N));
+        for(int response : vetor){
+            if (response > media){
+                System.out.println(response);
+            }     
+         }
     }
 }
